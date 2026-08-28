@@ -36,4 +36,5 @@ $$
 $$
 
 ## Nondimensionalization
-Substitute $\zeta$ 
+Substitute $\zeta$
+
