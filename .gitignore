@@ -1,0 +1,15 @@
+# computed data -- regenerate with scripts/, never commit
+data/
+
+# exploration notebooks ARE tracked (outputs stripped on commit by nbstripout,
+# see .gitattributes) -- but stray image files from them are not
+explore/*.png
+explore/*.pdf
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
+
+*.docx
